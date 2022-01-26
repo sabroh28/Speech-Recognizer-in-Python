@@ -1,5 +1,3 @@
-from ast import Try
-from multiprocessing.connection import Listener
 import speech_recognition as sr
 
 listener = sr.Recognizer()
